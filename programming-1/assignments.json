@@ -1,4 +1,21 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "practice01",
+      "name": "practice01",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "programming-1",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
