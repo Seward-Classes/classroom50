@@ -64,6 +64,22 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "practice05",
+      "name": "practice01",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "programming-2",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
