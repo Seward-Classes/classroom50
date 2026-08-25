@@ -256,6 +256,22 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "project-4",
+      "name": "practice08",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "SDL_template",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
