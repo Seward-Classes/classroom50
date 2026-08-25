@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Programming 2",
+  "short_name": "programming-2",
+  "term": "Fall 2026",
+  "org": "Seward-Classes",
+  "team": {
+    "id": 19154044,
+    "slug": "classroom50-programming-2"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19154045,
+      "slug": "classroom50-programming-2-teacher"
+    },
+    "hta": {
+      "id": 19154046,
+      "slug": "classroom50-programming-2-hta"
+    },
+    "ta": {
+      "id": 19154047,
+      "slug": "classroom50-programming-2-ta"
+    }
+  }
+}
