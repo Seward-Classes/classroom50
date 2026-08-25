@@ -226,22 +226,6 @@
       }
     },
     {
-      "slug": "final",
-      "name": "practice01",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": false,
-      "no_autograder": true,
-      "template": {
-        "owner": "Seward-Classes",
-        "repo": "programming-2",
-        "branch": "main"
-      },
-      "grading": {
-        "mode": "off"
-      }
-    },
-    {
       "slug": "project-1",
       "name": "project1",
       "mode": "individual",
@@ -292,6 +276,22 @@
     {
       "slug": "midterm",
       "name": "midterm",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "programming-2",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
+    },
+    {
+      "slug": "final",
+      "name": "final",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
