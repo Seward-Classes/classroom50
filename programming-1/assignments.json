@@ -34,22 +34,6 @@
       }
     },
     {
-      "slug": "practice06",
-      "name": "practice02",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": false,
-      "no_autograder": true,
-      "template": {
-        "owner": "Seward-Classes",
-        "repo": "programming-1",
-        "branch": "main"
-      },
-      "grading": {
-        "mode": "off"
-      }
-    },
-    {
       "slug": "practice03",
       "name": "practice03",
       "mode": "individual",
@@ -84,6 +68,22 @@
     {
       "slug": "practice05",
       "name": "practice05",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "programming-1",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
+    },
+    {
+      "slug": "practice06",
+      "name": "practice06",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
