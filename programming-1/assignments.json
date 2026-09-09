@@ -99,7 +99,7 @@
     },
     {
       "slug": "project01",
-      "name": "practice06",
+      "name": "project01",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
