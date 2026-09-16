@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Programming Languages",
+  "short_name": "programming-languages",
+  "term": "",
+  "org": "Seward-Classes",
+  "team": {
+    "id": 19527650,
+    "slug": "classroom50-programming-languages"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19527651,
+      "slug": "classroom50-programming-languages-teacher"
+    },
+    "hta": {
+      "id": 19527652,
+      "slug": "classroom50-programming-languages-hta"
+    },
+    "ta": {
+      "id": 19527653,
+      "slug": "classroom50-programming-languages-ta"
+    }
+  }
+}
