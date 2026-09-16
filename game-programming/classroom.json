@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Game Programming",
+  "short_name": "game-programming",
+  "term": "",
+  "org": "Seward-Classes",
+  "team": {
+    "id": 19527682,
+    "slug": "classroom50-game-programming"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19527683,
+      "slug": "classroom50-game-programming-teacher"
+    },
+    "hta": {
+      "id": 19527684,
+      "slug": "classroom50-game-programming-hta"
+    },
+    "ta": {
+      "id": 19527685,
+      "slug": "classroom50-game-programming-ta"
+    }
+  }
+}
