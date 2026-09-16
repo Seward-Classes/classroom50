@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "lab-1",
+      "name": "Lab 1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Make a lexer.",
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
