@@ -295,7 +295,7 @@
     },
     {
       "slug": "project03",
-      "name": "project01",
+      "name": "project03",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
