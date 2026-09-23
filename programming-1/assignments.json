@@ -163,7 +163,7 @@
     },
     {
       "slug": "practice10",
-      "name": "practice06",
+      "name": "practice10",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
