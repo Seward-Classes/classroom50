@@ -279,7 +279,7 @@
     },
     {
       "slug": "project02",
-      "name": "project01",
+      "name": "project02",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
