@@ -1,24 +1,4 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": [
-    {
-      "slug": "project1",
-      "name": "Project1",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": false,
-      "no_autograder": true,
-      "include_all_branches": true,
-      "copy_about": true,
-      "copy_topics": true,
-      "template": {
-        "owner": "NicholasSeward",
-        "repo": "CPSI-27703-Intro-to-Game-Programming-Fall-2025-Starter",
-        "branch": "main"
-      },
-      "grading": {
-        "mode": "off"
-      }
-    }
-  ]
+  "assignments": []
 }
