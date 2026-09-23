@@ -1,4 +1,16 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "project01",
+      "name": "project01",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
