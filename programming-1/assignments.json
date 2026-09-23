@@ -261,7 +261,7 @@
     },
     {
       "slug": "project4",
-      "name": "project4",
+      "name": "project04",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
