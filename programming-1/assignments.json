@@ -245,7 +245,7 @@
     },
     {
       "slug": "final",
-      "name": "practice06",
+      "name": "final",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
