@@ -276,6 +276,22 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "project02",
+      "name": "project01",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "programming-1",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
