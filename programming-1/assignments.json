@@ -115,7 +115,7 @@
     },
     {
       "slug": "practice07",
-      "name": "practice06",
+      "name": "practice07",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
