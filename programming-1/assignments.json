@@ -229,7 +229,7 @@
     },
     {
       "slug": "midterm",
-      "name": "practice06",
+      "name": "midterm",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
