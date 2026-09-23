@@ -258,6 +258,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "project4",
+      "name": "project4",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "env3d",
+        "repo": "cs1-llm-local-chatbot",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
