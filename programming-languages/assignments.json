@@ -15,12 +15,12 @@
     },
     {
       "slug": "lab-2",
-      "name": "Lab 1",
+      "name": "Lab 2",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
       "empty_repo": true,
-      "description": "Make a lexer.",
+      "description": "Make a parser.",
       "grading": {
         "mode": "off"
       }
