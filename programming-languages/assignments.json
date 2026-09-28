@@ -12,6 +12,18 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "lab-2",
+      "name": "Lab 1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Make a lexer.",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
