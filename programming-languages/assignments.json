@@ -35,6 +35,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "hello-j",
+      "name": "J",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "Hello_J",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
