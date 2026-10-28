@@ -24,6 +24,17 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "lab-3",
+      "name": "lab 3",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
