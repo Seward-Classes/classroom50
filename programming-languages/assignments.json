@@ -64,6 +64,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "scheme",
+      "name": "Scheme",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "Hello_Scheme",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
