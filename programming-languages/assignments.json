@@ -82,6 +82,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "go",
+      "name": "Go",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "Seward-Classes",
+        "repo": "Hello_Go",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
